@@ -1,8 +1,5 @@
 ## Projects
 
-[![mind.nvim](https://github-readme-stats.vercel.app/api/pin/?username=Selyss&repo=mind.nvim&theme=react)](https://github.com/Selyss/mind.nvim)
-[![Contact-Request-Bot](https://github-readme-stats.vercel.app/api/pin/?username=Selyss&repo=Contact-Request-Bot&theme=react)](https://github.com/Selyss/Contact-Request-Bot)
-[![AssemBuddy])
 [![unblocked game site]
 ## GitHub History
 <a href="https://github.com/Selyss">
