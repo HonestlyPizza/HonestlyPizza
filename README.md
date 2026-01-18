@@ -22,7 +22,8 @@ local skills = {
 
 ## GitHub Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=honestlypizza&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=honestlypizza&theme=dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=honestlypizza&theme=dark)
+
 
 ## Connect With Me
 
