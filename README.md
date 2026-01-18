@@ -1,4 +1,4 @@
-<h2 align="left">Hi! My name is Thunder and I'm a Roblox and Frontend Dev.</h2>
+<h2 align="left">Hi! My name is Thunder.</h2>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.ibb.co/L0L4t5K/c1970f68-a2e0-49cd-84c3-3daae3217a24.jpg"  />
+<img align="right" height="150" src=""  />
 
 ###
 
