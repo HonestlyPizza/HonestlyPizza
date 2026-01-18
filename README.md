@@ -22,7 +22,7 @@ local skills = {
 
 ## GitHub Stats
 
-![Thunder's GitHub stats]([https://github-readme-stats.vercel.app/api?username=Thunder&show_icons=true&theme=dark](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=honestlypizza&theme=dark))
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=honestlypizza&theme=dark)
 
 ## Connect With Me
 
