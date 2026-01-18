@@ -1,47 +1,33 @@
-<h2 align="left">Hi! My name is Thunder.</h2>
+# Hey, I'm Thunder ⚡
 
-###
+## About Me
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HonestlyPizza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=HonestlyPizza&locale=en&mode=weekly&theme=blue-green&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HonestlyPizza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=discord_old_blurple&hide_border=false" height="150" alt="languages graph"  />
-</div>
+Roblox Luau developer passionate about creating awesome experiences and tools for the Roblox platform.
 
-###
+## What I Work On
 
-<img align="right" height="150" src=""  />
+🎮 **Roblox Development** - Building games and experiences with Luau  
+🛠️ **Tools & Libraries** - Creating developer tools to make game development easier  
+💡 **Learning & Experimenting** - Always exploring new techniques and best practices
 
-###
+## Tech Stack
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-</div>
+```lua
+local skills = {
+    Languages = {"Luau", "Lua"},
+    Focus = "Roblox Game Development",
+    Tools = {"Roblox Studio", "Git"}
+}
+```
 
-###
+## GitHub Stats
 
-<div align="left">
-  <a href="https://www.youtube.com/@luauthunder" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://www.twitch.tv/thunder4x" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  </a>
-  <a href="mailto://executors.online@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
+![Thunder's GitHub stats]([https://github-readme-stats.vercel.app/api?username=Thunder&show_icons=true&theme=dark](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=honestlypizza&theme=dark))
 
-</div>
+## Connect With Me
 
-###
+Feel free to check out my repositories and reach out if you want to collaborate!
 
-<br clear="both">
+---
 
-<img src="https://raw.githubusercontent.com/Emmanuek5/Emmanuek5/output/snake.svg" alt="Snake animation" />
-
-###
-
-###
+⚡ *Coding storms, one script at a time*
