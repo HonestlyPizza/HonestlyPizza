@@ -23,10 +23,16 @@ local skills = {
 ```
 ## What I've Worked On
 
-### 🎮 [Game Name 1](link-to-game)
-<img src="image-url" alt="Game 1" width="400"/>
+### 🎮 [Crush An Ebike](https://www.roblox.com/games/84489185575509/Crush-an-Ebike)
 
-Brief description of what this game is about and key features.
+<div align="center">
+  <img src="images/caeb/Thumbnail1.png" alt="Crush An Ebike - Screenshot 1" width="400"/>
+  <img src="images/caeb/Thumbnail2.png" alt="Crush An Ebike - Screenshot 2" width="400"/>
+  <img src="images/caeb/Thumbnail3.png" alt="Crush An Ebike - Screenshot 3" width="400"/>
+  <img src="images/caeb/Thumbnail4.png" alt="Crush An Ebike - Screenshot 4" width="400"/>
+</div>
+
+A fun physics-based game where you crush ebikes! Features destructive gameplay and satisfying mechanics.
 
 ### 🎮 [Game Name 2](link-to-game)
 <img src="image-url" alt="Game 2" width="400"/>
