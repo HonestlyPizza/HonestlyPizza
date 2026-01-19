@@ -23,13 +23,15 @@ local skills = {
 ```
 ## What I've Worked On
 
-<div align="center">
+### 🎮 [Game Name 1](link-to-game)
+<img src="image-url" alt="Game 1" width="400"/>
 
-| Game | Description |
-|------|-------------|
-| <img src="image-url" width="300"/><br/>**[Game Name 1](link)** | Brief description of the game |
-| <img src="image-url" width="300"/><br/>**[Game Name 2](link)** | Brief description of the game |
+Brief description of what this game is about and key features.
 
+### 🎮 [Game Name 2](link-to-game)
+<img src="image-url" alt="Game 2" width="400"/>
+
+Brief description of what this game is about and key features.
 </div>
 
 ## GitHub Stats
