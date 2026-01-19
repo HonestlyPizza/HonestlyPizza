@@ -1,10 +1,18 @@
-<a href="https://github.com/HonestlyPizza">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=58A6FF&vCenter=true&width=500&lines=Hey%2C+I'm+Thunder⚡" alt="Typing SVG" />
-</a>
+<div align="center">
+
+# ⚡ Thunder ⚡
+
+[![Roblox](https://img.shields.io/badge/Roblox-Developer-00A2FF?style=for-the-badge&logo=roblox&logoColor=white)](https://www.roblox.com/users/606779928/profile)
+[![Luau](https://img.shields.io/badge/Luau-Expert-00A2FF?style=for-the-badge&logo=lua&logoColor=white)](https://luau.org/)
+[![GitHub](https://img.shields.io/github/followers/HonestlyPizza?style=for-the-badge&logo=github&label=Followers)](https://github.com/HonestlyPizza)
+
+**I make fire roblox games**
+
+</div>
 
 ## About Me
 
-Roblox Luau developer passionate about creating awesome experiences and tools for the Roblox platform.
+I am a new roblox developer, I have about 6 months of experience. I love doing UI design & scripting.
 
 ## What I Work On
 
