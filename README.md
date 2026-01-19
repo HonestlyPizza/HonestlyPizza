@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Thunder ⚡
+# Thunder
 
 [![Roblox](https://img.shields.io/badge/Roblox-Developer-00A2FF?style=for-the-badge&logo=roblox&logoColor=white)](https://www.roblox.com/users/606779928/profile)
 [![Luau](https://img.shields.io/badge/Luau-Expert-00A2FF?style=for-the-badge&logo=lua&logoColor=white)](https://luau.org/)
@@ -31,7 +31,7 @@ local skills = {
 ```
 ## What I've Worked On
 
-### 🎮 [Crush An Ebike](https://www.roblox.com/games/84489185575509/Crush-an-Ebike)
+### [Crush An Ebike](https://www.roblox.com/games/84489185575509/Crush-an-Ebike)
 
 <div align="center">
   <img src="images/caeb/Thumbnail1.png" alt="Crush An Ebike - Screenshot 1" width="400"/>
@@ -42,10 +42,10 @@ local skills = {
 
 A fun physics-based game where you crush ebikes! Features destructive gameplay and satisfying mechanics.
 
-### 🎮 [Game Name 2](link-to-game)
+<!-- ### 🎮 [Game Name 2](link-to-game)
 <img src="image-url" alt="Game 2" width="400"/>
 
-Brief description of what this game is about and key features.
+Brief description of what this game is about and key features. -->
 </div>
 
 ## GitHub Stats
