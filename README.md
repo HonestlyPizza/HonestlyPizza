@@ -18,7 +18,7 @@ Roblox Luau developer passionate about creating awesome experiences and tools fo
 local skills = {
     Languages = {"Luau", "Lua"},
     Focus = "Roblox Game Development",
-    Tools = {"Roblox Studio", "Git"}
+    Tools = {"Roblox Studio", "Git", "Rojo", "Roact"}
 }
 ```
 
