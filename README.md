@@ -1,5 +1,6 @@
-# Hey, I'm Thunder ⚡
-
+<a href="https://github.com/HonestlyPizza">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=58A6FF&vCenter=true&width=500&lines=Hey,%2C+I'm+Thunder+⚡" alt="Typing SVG" />
+</a>
 ## About Me
 
 Roblox Luau developer passionate about creating awesome experiences and tools for the Roblox platform.
