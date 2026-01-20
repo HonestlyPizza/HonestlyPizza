@@ -33,14 +33,13 @@
 <tr>
 <td width="60%" valign="top">
 
-**Roblox Developer** specializing in **UI Design** and **Luau Scripting** with 6 months of hands-on experience building engaging game experiences on the Roblox platform.
+**Roblox Developer** specializing in **UI** and **Luau Scripting** with 6 months of experience building engaging games on the Roblox platform.
 
-I focus on creating polished user interfaces and implementing solid game mechanics that provide players with satisfying, fun interactions. My development approach combines creative design with clean, maintainable code.
+I focus on creating polished user interfaces and implementing solid good mechanics that provide players with satisfying, fun interactions. My development approach combines creative design with clean, maintainable code.
 
 **Current Focus:**
-- Developing innovative Roblox game concepts
-- Advancing skills in complex game systems and optimization
-- Crafting intuitive, visually appealing user interfaces
+- Hitting the Top of the Recommended Page
+- Making fun games for people to play
 
 </td>
 <td width="40%" align="center" valign="top">
@@ -88,14 +87,14 @@ local expertise = {
 ### Roblox Specialization
 
 **Development Expertise:**
-- Roblox Studio (Primary IDE)
+- VS Code (Primary IDE)
 - Git version control & GitHub
 - Rojo (Roblox + VSCode sync)
-- Roact (UI framework)
+- React (UI framework)
 
 **Project Types:**
-- Physics-based games
-- UI/UX systems
+- Physics-based games (Bike Systems)
+- UI/UX systems 
 - Game mechanics prototyping
 - Developer tools
 
@@ -113,11 +112,10 @@ local expertise = {
 <tr>
 <td width="55%" valign="top">
 
-A physics-based destruction game featuring satisfying crushing mechanics and polished UI. Players experience dynamic physics simulation with smooth animations and responsive controls.
+A fun simulator based game to crush bikes. (based on shred an ebike)
 
 **Key Features:**
-- Advanced physics simulation
-- Custom UI design system
+- Fun simulation style game.
 - Engaging progression mechanics
 - Optimized performance
 
@@ -127,7 +125,7 @@ A physics-based destruction game featuring satisfying crushing mechanics and pol
 ![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-00A2FF?style=flat-square&logo=roblox&logoColor=white)
 
 **Links:**
-- [▶ Play on Roblox](https://www.roblox.com/games/84489185575509/Crush-an-Ebike)
+- [Play on Roblox](https://www.roblox.com/games/84489185575509/Crush-an-Ebike)
 
 </td>
 <td width="45%" align="center">
@@ -193,7 +191,7 @@ Continuously exploring advanced techniques, performance optimization, and indust
 
 ```lua
 local developer = {
-    name = "THUNDER",
+    name = "luauthunder",
     experience = "6 months",
 
     languages = {"Luau", "Lua"},
@@ -203,14 +201,14 @@ local developer = {
         "UI Design",
         "Scripting",
         "Game Mechanics",
-        "Physics Systems"
+        "Bike Systems"
     },
 
     tools = {
         "Roblox Studio",
         "Git",
         "Rojo",
-        "Roact",
+        "React",
         "VS Code"
     }
 }

@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git add:*)",
+      "Bash(git commit -m \"$\\(cat <<''EOF''\nRedesign README for professional portfolio style and optimize images\n\n- Transform from casual emoji-heavy design to clean, professional layout\n- Restructure sections for better visual hierarchy and readability\n- Add new Skills & Expertise section with visual proficiency indicators\n- Enhance Featured Projects with metadata, collapsible screenshots, and tech badges\n- Convert tech badges from for-the-badge to flat-square style for cleaner appearance\n- Increase social icon sizes \\(40px → 48px\\) for better visibility\n- Compress game screenshots from 37.3MB to 10.6MB \\(71.6% reduction\\) using Python PIL\n- Optimize Featured Projects to lazy-load additional screenshots via details tag\n- Maintain personality through Lua code block while improving professional presentation\n\nImages optimized:\n- Thumbnail1.png: 9.9MB → 2.8MB\n- Thumbnail2.png: 9.2MB → 2.6MB\n- Thumbnail3.png: 9.2MB → 2.7MB\n- Thumbnail4.png: 9.0MB → 2.6MB\n\nCo-Authored-By: Claude Haiku 4.5 <noreply@anthropic.com>\nEOF\n\\)\")"
+    ]
+  }
+}
