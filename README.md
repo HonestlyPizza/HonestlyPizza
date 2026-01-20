@@ -1,16 +1,20 @@
-```
-████████╗██╗  ██╗██╗   ██╗███╗   ██╗██████╗ ███████╗██████╗
-╚══██╔══╝██║  ██║██║   ██║████╗  ██║██╔══██╗██╔════╝██╔══██╗
-   ██║   ███████║██║   ██║██╔██╗ ██║██║  ██║█████╗  ██████╔╝
-   ██║   ██╔══██║██║   ██║██║╚██╗██║██║  ██║██╔══╝  ██╔══██╗
-   ██║   ██║  ██║╚██████╔╝██║ ╚████║██████╔╝███████╗██║  ██║
-   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚═════╝ ╚══════╝╚═╝  ╚═╝
-```
+<div align="center">
 
-LMAO WELCOME TO THE CHAOS
-WHO EVEN READS READMES ANYWAY 😂😂😂
+#  THUNDER
 
-🟦🟥🟩🟨🟪🟫⬛⬜🟥🟦🟩🟨🟪🟫⬛⬜🟥🟦🟩🟨🟪🟫⬛⬜
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Roblox+Developer;UI+Designer+%26+Scripter;Building+Fun+Games" alt="Typing SVG" />
+
+</div>
+
+<br>
+
+<!-- Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Luau-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="Luau"/>
+  <img src="https://img.shields.io/badge/Github-ffffff?style=for-the-badge&logo=github&logoColor=black" alt="Github"/>
+  <img src="https://img.shields.io/badge/Roblox_Studio-00A2FF?style=for-the-badge&logo=roblox-studio&logoColor=white" alt="Roblox Studio"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
 
 <!-- Social icons section -->
 <p align="center">
@@ -30,80 +34,77 @@ WHO EVEN READS READMES ANYWAY 😂😂😂
 <br>
 
 
-## About Me (or somethng idk)
+## 👋 About Me
 
-> yo im just vibin fr fr no cap 💯💯💯
->
-> tbh i have NO idea what im doing i js vibe code n shi(67)
->
+> **Roblox Developer** with 6 months of experience, specializing in **UI Design** and **Scripting**. I want to create slop games and take over Roblox's for you page!!!
 
-- ✈️ claude code enthusiast
-- 🐛 professional bug creator
-- 💀 making my code break in new and exciting ways
-- ❓ do i even code?? nope. claude does.
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-```
-    /\_/\
-   ( o.o )
-    > ^ <
-   /|   |\
-  (_|   |_)
-```
+- 🔭 Currently working on fun Roblox games
+- 🌱 Trying to learn advanced Roblox development skills
+- 🎨 Love crafting beautiful user interfaces
+
+<br clear="right"/>
 
 ---
 
-## 🚀 What I Do (questionable)
+## 🚀 What I Work On
 
-| what | lol | fr |
-|---|---|---|
-| beg claude code to do my work for me | ✅✅✅ | 999% |
-| waste time on entire projects | ✅ | im him |
-| pretend to know what im doing | ✅✅ | professional skill |
-| claude code my errors | ✅✅✅✅✅ | certified expert |
-| accidentally delete important code and not use good version control | ✅✅✅ | happens every tuesday |
-
-```
-[REDACTED FOR SECURITY REASONS]
-[ACTUALLY JUST FORGOT WHAT I DID]
-[HONESTLY WHO KNOWS]
-```
+<table>
+<tr>
+<td width="33%" align="center">
+<h3>🎮 Game Development</h3>
+Building immersive games and experiences with Luau
+</td>
+<td width="33%" align="center">
+<h3>🛠️ Tools & Libraries</h3>
+Creating developer tools to make game development easier
+</td>
+<td width="33%" align="center">
+<h3>💡 Learning & Experimenting</h3>
+Always exploring new techniques and best practices
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ "Tech Stack" (if u can call it that)
+## 🛠️ Tech Stack
 
 ```lua
-local my_skills = {
-    actual_skills = {"local a = "a""},
-    languages_i_know = {"claude", "gemini", "prompting ais"},
-    expertise_level = "no",
-    debugging_method = "tell claude to add print statements",
-    problem_solving = function() return "panic" end,
-    code_quality = "claude did it so its good :)"
+local skills = {
+    Languages = {"Luau", "Lua"},
+    Focus = "Roblox Game Development",
+    Specialties = {"UI Design", "Scripting", "Game Mechanics"},
+    Tools = {"Roblox Studio", "Git", "Rojo", "Roact"}
 }
-
--- WARNING: THIS IS ALL MADE UP
--- I HAVE NO IDEA WHAT IM DOING
--- PLEASE HELP
 ```
 
-🟥🟥🟥 ERROR ERROR ERROR 🟥🟥🟥
-THE TECH STACK IMAGE IS MISSING AND I DONT CARE
-🟥🟥🟥 ERROR ERROR ERROR 🟥🟥🟥
+<p align="center">
+  <img src="images/icons.svg" alt="Tech Stack Icons"/>
+</p>
 ---
 
-## 🎮 Featured Projects (lmao)
+## 🎮 Featured Projects
 
 ### [Crush An Ebike](https://www.roblox.com/games/84489185575509/Crush-an-Ebike)
 
-**ts is so buns lmao**
+<div align="center">
 
-these are supposed to be screenshots but honestly i forgot where i put them
+A fun physics-based destruction game where you crush ebikes! Features satisfying gameplay mechanics and polished UI.
 
- IMAGE NOT FOUND
- IMAGE NOT FOUND
- IMAGE NOT FOUND
- IMAGE NOT FOUND
+<table>
+  <tr>
+    <td><img src="images/caeb/Thumbnail1.png" alt="Crush An Ebike - Screenshot 1" width="400"/></td>
+    <td><img src="images/caeb/Thumbnail2.png" alt="Crush An Ebike - Screenshot 2" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="images/caeb/Thumbnail3.png" alt="Crush An Ebike - Screenshot 3" width="400"/></td>
+    <td><img src="images/caeb/Thumbnail4.png" alt="Crush An Ebike - Screenshot 4" width="400"/></td>
+  </tr>
+</table>
+
+</div>
 
 <!-- ### 🎮 [Game Name 2](link-to-game)
 <img src="image-url" alt="Game 2" width="400"/>
@@ -112,14 +113,23 @@ Brief description of what this game is about and key features. -->
 
 ---
 
-## 📊 GitHub Stats (BROKEN)
+## 📊 GitHub Stats
 
-```
-⚠️ THE STATS IMAGES ARE PROBABLY 404'ING RIGHT NOW ⚠️
-BUT HERE'S WHAT THEY WOULD SAY IF THEY WORKED:
+<div align="center">
 
-Commits: 2
-Pull Requests: 0
-Code Quality: ai (infinite bugs)
-Time Spent Using AI: MORE THAN CODING
-Success Rate: 0% (undefined)
+![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=honestlypizza&theme=github_dark)
+![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=honestlypizza&theme=github_dark)
+![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=honestlypizza&theme=github_dark)
+
+</div>
+
+
+
+<div align="center">
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=honestlypizza&color=blueviolet&style=for-the-badge)
+
+**Thanks for stopping by!** 💗
+
+</div>
