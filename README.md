@@ -1,18 +1,24 @@
 <div align="center">
 
-# Thunder
-
-[![Roblox](https://img.shields.io/badge/Roblox-Developer-00A2FF?style=for-the-badge&logo=roblox&logoColor=white)](https://www.roblox.com/users/606779928/profile)
-[![Luau](https://img.shields.io/badge/Luau-Expert-00A2FF?style=for-the-badge&logo=lua&logoColor=white)](https://luau.org/)
-[![GitHub](https://img.shields.io/github/followers/HonestlyPizza?style=for-the-badge&logo=github&label=Followers)](https://github.com/HonestlyPizza)
-
-**I make fire roblox games**
+# THUNDER
 
 </div>
 
+
+
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://www.youtube.com/c/luauthunder"><img width="32px" alt="Youtube" title="Youtube" src="images/youtube.svg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.roblox.com/users/606779928/profile"><img width="32px" alt="Roblox" title="Roblox" src="images/roblox.svg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://thunder4x.itch.io/"><img width="32px" alt="Itch.io" title="Itch.io" src="images/itchio.svg"/></a>
+</p>
+
+
 ## About Me
 
-I am a new roblox developer, I have about 6 months of experience. I love doing UI design & scripting.
+I am a new roblox developer, I have about 6 months of experience. I love UI design & scripting.
 
 ## What I Work On
 
